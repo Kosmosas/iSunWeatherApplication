@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "iSunWeatherApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--cities 45gh874 Kaunas"
+    }
+  }
+}
